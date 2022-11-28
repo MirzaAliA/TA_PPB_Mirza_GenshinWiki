@@ -24,7 +24,7 @@ function ProfileScreen() {
             return request;
         }
 
-        const token = ['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'];
+        const token = ['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'];
         fetchDataGithub();
     });
 
