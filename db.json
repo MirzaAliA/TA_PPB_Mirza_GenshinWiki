@@ -1,0 +1,1417 @@
+{
+    "artifacts": [
+        {
+            "id": 1,
+            "name": "Adventurer",
+            "max_rarity": "3 Star",
+            "two_piece": "Max HP increased by 1,000",
+            "four_piece": "Opening chest regenerates 30% Max HP over 5s",
+            "gambar": "https://api.genshin.dev/artifacts/adventurer/flower-of-life"
+        },
+        {
+            "id": 2,
+            "name": "Lucky Dog",
+            "max_rarity": "3 Star",
+            "two_piece": "DEF increased by 100",
+            "four_piece": "Picking up Mora restores 300 HP",
+            "gambar": "https://api.genshin.dev/artifacts/lucky-dog/flower-of-life"
+        },
+        {
+            "id": 3,
+            "name": "Traveling Doctor",
+            "max_rarity": "3 Star",
+            "two_piece": "Increases incoming healing by 20%",
+            "four_piece": "Using Elemental Burst restores 20% HP",
+            "gambar": "https://api.genshin.dev/artifacts/traveling-doctor/flower-of-life"
+        },
+        {
+            "id": 4,
+            "name": "Berserker",
+            "max_rarity": "4 Star",
+            "two_piece": "CRIT Rate +12%",
+            "four_piece": "When HP is below 70%, CRIT Rate increases by an additional 24%",
+            "gambar": "https://api.genshin.dev/artifacts/berserker/flower-of-life"
+        },
+        {
+            "id": 5,
+            "name": "Brave Heart",
+            "max_rarity": "4 Star",
+            "two_piece": "ATK +18%",
+            "four_piece": "Increases DMG by 30% against enemies with more than 50% HP",
+            "gambar": "https://api.genshin.dev/artifacts/brave-heart/flower-of-life"
+        },
+        {
+            "id": 6,
+            "name": "Defender's Will",
+            "max_rarity": "4 Star",
+            "two_piece": "Base DEF +30%",
+            "four_piece": "Increases Elemental RES by 30% for each element present in the party",
+            "gambar": "https://api.genshin.dev/artifacts/defender-s-will/flower-of-life"
+        },
+        {
+            "id": 7,
+            "name": "Gambler",
+            "max_rarity": "4 Star",
+            "two_piece": "Elemental Skill DMG increased by 20%",
+            "four_piece": "Defeating an enemy has 100% chance to remove Elemental Skill CD. Can only occur once every 15s",
+            "gambar": "https://api.genshin.dev/artifacts/gambler/flower-of-life"
+        },
+        {
+            "id": 8,
+            "name": "Instructor",
+            "max_rarity": "4 Star",
+            "two_piece": "Increases Elemental Mastery by 80",
+            "four_piece": "After using Elemental Skill, increases all party members' Elemental Mastery by 120 for 8s",
+            "gambar": "https://api.genshin.dev/artifacts/instructor/flower-of-life"
+        },
+        {
+            "id": 9,
+            "name": "Martial Artist",
+            "max_rarity": "4 Star",
+            "two_piece": "Increases Normal Attack and Charged Attack DMG by 15%",
+            "four_piece": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s",
+            "gambar": "https://api.genshin.dev/artifacts/martial-artist/flower-of-life"
+        },
+        {
+            "id": 10,
+            "name": "Resolution of Sojourner",
+            "max_rarity": "4 Star",
+            "two_piece": "ATK +18%",
+            "four_piece": "Increases Charged Attack CRIT Rate by 30%",
+            "gambar": "https://api.genshin.dev/artifacts/resolution-of-sojourner/flower-of-life"
+        },
+        {
+            "id": 11,
+            "name": "Scholar",
+            "max_rarity": "4 Star",
+            "two_piece": "Energy Recharge +20%",
+            "four_piece": "Gaining Energy gives 3 Energy to all party members who have a bow or a catalyst equipped. Can only occurs once every 3s",
+            "gambar": "https://api.genshin.dev/artifacts/scholar/flower-of-life"
+        },
+        {
+            "id": 12,
+            "name": "The Exile",
+            "max_rarity": "4 Star",
+            "two_piece": "Energy Recharge +20%",
+            "four_piece": "Using an Elemental Burst regenerates 2 Energy for other party members every 2s for 6s. This effect cannot stack",
+            "gambar": "https://api.genshin.dev/artifacts/the-exile/flower-of-life"
+        },
+        {
+            "id": 13,
+            "name": "Tiny Miracle",
+            "max_rarity": "4 Star",
+            "two_piece": "All Elemental RES increased by 20%",
+            "four_piece": "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s",
+            "gambar": "https://api.genshin.dev/artifacts/tiny-miracle/flower-of-life"
+        },
+        {
+            "id": 14,
+            "name": "Archaic Petra",
+            "max_rarity": "5 Star",
+            "two_piece": "Gain a 15% Geo DMG Bonus",
+            "four_piece": "Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time",
+            "gambar": "https://api.genshin.dev/artifacts/archaic-petra/flower-of-life"
+        },
+        {
+            "id": 15,
+            "name": "Blizzard Strayer",
+            "max_rarity": "5 Star",
+            "two_piece": "Cryo DMG Bonus +15%",
+            "four_piece": "When a character attacks an enemy affected by Cryo, their CRIT Rate is increased by 20%. If the enemy is Frozen, CRIT Rate is increased by an additional 20%",
+            "gambar": "https://api.genshin.dev/artifacts/blizzard-strayer/flower-of-life"
+        },
+        {
+            "id": 16,
+            "name": "Bloodstained Chivalry",
+            "max_rarity": "5 Star",
+            "two_piece": "Physical DMG +25%",
+            "four_piece": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s",
+            "gambar": "https://api.genshin.dev/artifacts/bloodstained-chivalry/flower-of-life"
+        },
+        {
+            "id": 17,
+            "name": "Crimson Witch of Flames",
+            "max_rarity": "5 Star",
+            "two_piece": "Gain a 15% Pyro DMG Bonus",
+            "four_piece": "Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks",
+            "gambar": "https://api.genshin.dev/artifacts/crimson-witch-of-flames/flower-of-life"
+        },
+        {
+            "id": 18,
+            "name": "Deepwood Memories",
+            "max_rarity": "5 Star",
+            "two_piece": "Dendro DMG Bonus +15%",
+            "four_piece": "After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field",
+            "gambar": "https://api.genshin.dev/artifacts/deepwood-memories/flower-of-life"
+        },
+        {
+            "id": 19,
+            "name": "Echoes of an Offering",
+            "max_rarity": "5 Star",
+            "two_piece": "ATK +18%",
+            "four_piece": "When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%. This trigger can occur once every 0.2s",
+            "gambar": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Soulscent_Bloom.png"
+        },
+        {
+            "id": 20,
+            "name": "Emblem Of Severed Fate",
+            "max_rarity": "5 Star",
+            "two_piece": "Energy Recharge +20%",
+            "four_piece": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way",
+            "gambar": "https://api.genshin.dev/artifacts/emblem-of-severed-fate/flower-of-life"
+        },
+        {
+            "id": 21,
+            "name": "Gilded Dreams",
+            "max_rarity": "5 Star",
+            "two_piece": "Elemental Mastery +80",
+            "four_piece": "Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members, ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field",
+            "gambar": "https://api.genshin.dev/artifacts/emblem-of-severed-fate/flower-of-life"
+        },
+        {
+            "id": 22,
+            "name": "Gladiator's Finale",
+            "max_rarity": "5 Star",
+            "two_piece": "ATK +18%",
+            "four_piece": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%",
+            "gambar": "https://api.genshin.dev/artifacts/gladiator-s-finale/flower-of-life"
+        },
+        {
+            "id": 23,
+            "name": "Heart of Depth",
+            "max_rarity": "5 Star",
+            "two_piece": "Hydro DMG Bonus +15%",
+            "four_piece": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s",
+            "gambar": "https://api.genshin.dev/artifacts/heart-of-depth/flower-of-life"
+        },
+        {
+            "id": 24,
+            "name": "Husk of Opulent Dreams",
+            "max_rarity": "5 Star",
+            "two_piece": "Hydro DMG Bonus +15%",
+            "four_piece": "A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost",
+            "gambar": "https://api.genshin.dev/artifacts/husk-of-opulent-dreams/flower-of-life"
+        },
+        {
+            "id": 25,
+            "name": "Lavawalker",
+            "max_rarity": "5 Star",
+            "two_piece": "Pyro RES increased by 40%",
+            "four_piece": "Increases DMG against enemies that are Burning or affected by Pyro by 35%",
+            "gambar": "https://api.genshin.dev/artifacts/lavawalker/flower-of-life"
+        },
+        {
+            "id": 26,
+            "name": "Maiden Beloved",
+            "max_rarity": "5 Star",
+            "two_piece": "Character Healing Effectiveness +15%",
+            "four_piece": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s",
+            "gambar": "https://api.genshin.dev/artifacts/maiden-beloved/flower-of-life"
+        },
+        {
+            "id": 27,
+            "name": "Noblesse Oblige",
+            "max_rarity": "5 Star",
+            "two_piece": "Elemental Burst DMG +20%",
+            "four_piece": "Using an Elemental Burst increase all party members' ATK by 20% for 12s. This effect cannot stack",
+            "gambar": "https://api.genshin.dev/artifacts/noblesse-oblige/flower-of-life"
+        },
+        {
+            "id": 28,
+            "name": "Ocean-Hued Clam",
+            "max_rarity": "5 Star",
+            "two_piece": "Healing Bonus +15%",
+            "four_piece": "When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing). At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing. (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but it is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses). Only one Sea-Dyed Foam can be produced every 3.5 seconds. Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing). There can be no more than one Sea-Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field",
+            "gambar": "https://api.genshin.dev/artifacts/ocean-hued-clam/flower-of-life"
+        },
+        {
+            "id": 29,
+            "name": "Pale Flame",
+            "max_rarity": "5 Star",
+            "two_piece": "Physical DMG +25%",
+            "four_piece": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached the 2 set effect is increased by 100%",
+            "gambar": "https://api.genshin.dev/artifacts/pale-flame/flower-of-life"
+        },
+        {
+            "id": 30,
+            "name": "Retracing Bolide",
+            "max_rarity": "5 Star",
+            "two_piece": "Increases Shield Strength by 35%",
+            "four_piece": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG",
+            "gambar": "https://api.genshin.dev/artifacts/retracing-bolide/flower-of-life"
+        },
+        {
+            "id": 31,
+            "name": "Shimenawa's Reminiscence",
+            "max_rarity": "5 Star",
+            "two_piece": "ATK +18%",
+            "four_piece": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/ Charged/ Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration",
+            "gambar": "https://api.genshin.dev/artifacts/shimenawa-s-reminiscence/flower-of-life"
+        },
+        {
+            "id": 32,
+            "name": "Tenacity of the Millelith",
+            "max_rarity": "5 Star",
+            "two_piece": "HP +20%",
+            "four_piece": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field",
+            "gambar": "https://api.genshin.dev/artifacts/tenacity-of-the-millelith/flower-of-life"
+        },
+        {
+            "id": 33,
+            "name": "Thundering Fury",
+            "max_rarity": "5 Star",
+            "two_piece": "Gain a 15% Electro DMG Bonus",
+            "four_piece": "Increases damage caused by Overloaded, Electro-Charged, and Superconduct DMG by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s",
+            "gambar": "https://api.genshin.dev/artifacts/thundering-fury/flower-of-life"
+        },
+        {
+            "id": 34,
+            "name": "Thundersoother",
+            "max_rarity": "5 Star",
+            "two_piece": "Electro RES increased by 40%",
+            "four_piece": "Increases DMG against enemies affected by Electro by 35%",
+            "gambar": "https://api.genshin.dev/artifacts/thundersoother/flower-of-life"
+        },
+        {
+            "id": 35,
+            "name": "Vermillion Hereafter",
+            "max_rarity": "5 Star",
+            "two_piece": "ATK +18%",
+            "four_piece": "After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled",
+            "gambar": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Item_Flowering_Life.png"
+        },
+        {
+            "id": 36,
+            "name": "Viridescent Venerer",
+            "max_rarity": "5 Star",
+            "two_piece": "Gain a 15% Anemo DMG Bonus",
+            "four_piece": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s",
+            "gambar": "https://api.genshin.dev/artifacts/viridescent-venerer/flower-of-life"
+        },
+        {
+            "id": 37,
+            "name": "Wanderer's Troupe",
+            "max_rarity": "5 Star",
+            "two_piece": "Elemental Mastery +80",
+            "four_piece": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or Bow",
+            "gambar": "https://api.genshin.dev/artifacts/wanderer-s-troupe/flower-of-life"
+        }
+    ],
+    "nations": [
+        {
+            "id": 1,
+            "name": "Mondstadt",
+            "element": "Anemo",
+            "archon": "Barbatos",
+            "controllingEntity": "Knight of Favonius",
+            "gambar": "https://api.genshin.dev/nations/mondstadt/icon"
+        },
+        {
+            "id": 2,
+            "name": "Liyue",
+            "element": "Geo",
+            "archon": "Morax",
+            "controllingEntity": "Liyue Qixing",
+            "gambar": "https://api.genshin.dev/nations/liyue/icon"
+        },
+        {
+            "id": 3,
+            "name": "Inazuma",
+            "element": "Electro",
+            "archon": "Baal",
+            "controllingEntity": "Inazuma Bakufu",
+            "gambar": "https://api.genshin.dev/nations/inazuma/icon"
+        },
+        {
+            "id": 4,
+            "name": "Sumeru",
+            "element": "Dendro",
+            "archon": "Buer",
+            "controllingEntity": "Sumeru Academia",
+            "gambar": "https://static.wikia.nocookie.net/gensin-impact/images/3/38/Emblem_Sumeru.png"
+        }
+    ],
+    "weapons": [
+        {
+            "id": "60a11b147dc6f433bcb7deb0",
+            "name": "Fillet Blade",
+            "baseAtk": "39",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Fillet-Blade.png",
+            "rarity": 3,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7defd",
+            "name": "Summit Shaper",
+            "baseAtk": "46",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Summit-Shaper.png",
+            "rarity": 5,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deb8",
+            "name": "Bloodtainted Greatsword",
+            "baseAtk": "38",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Bloodtainted-Greatsword.png",
+            "rarity": 3,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7debe",
+            "name": "Recurve Bow",
+            "baseAtk": "38",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Recurve-Bow.png",
+            "rarity": 3,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dec3",
+            "name": "Slingshot",
+            "baseAtk": "38",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Slingshot.png",
+            "rarity": 3,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deed",
+            "name": "Serpent Spine",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Serpent-Spine.png",
+            "rarity": 4,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7def0",
+            "name": "Whiteblind",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Whiteblind.png",
+            "rarity": 4,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7defc",
+            "name": "Aquila Favonia",
+            "baseAtk": "48",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Aquila-Favonia.png",
+            "rarity": 5,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df04",
+            "name": "Vortex Vanquisher",
+            "baseAtk": "46",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Vortex-Vanquisher.png",
+            "rarity": 5,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df12",
+            "name": "Song of Broken Pines",
+            "baseAtk": "49",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Song-of-Broken-Pines.png",
+            "rarity": 5,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deae",
+            "name": "Cool Steel",
+            "baseAtk": "39",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Cool-Steel.png",
+            "rarity": 3,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deb4",
+            "name": "Otherworldly Story",
+            "baseAtk": "39",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Otherworldly-Story.png",
+            "rarity": 3,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deb1",
+            "name": "Dark Iron Sword",
+            "baseAtk": "39",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Dark-Iron-Sword.png",
+            "rarity": 3,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dec6",
+            "name": "Recurve Bow",
+            "baseAtk": "38",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Recurve-Bow.png",
+            "rarity": 3,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7ded1",
+            "name": "Festering Desire",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Festering-Desire.png",
+            "rarity": 4,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deea",
+            "name": "Rainslasher",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Rainslasher.png",
+            "rarity": 4,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7def4",
+            "name": "Skyward Harp",
+            "baseAtk": "48",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Skyward-Harp.png",
+            "rarity": 5,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deb5",
+            "name": "Twin Nephrite",
+            "baseAtk": "40",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Twin-Nephrite.png",
+            "rarity": 3,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7debb",
+            "name": "Slingshot",
+            "baseAtk": "38",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Slingshot.png",
+            "rarity": 3,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7debf",
+            "name": "Messenger",
+            "baseAtk": "40",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Messenger.png",
+            "rarity": 3,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dec9",
+            "name": "Sacrificial Sword",
+            "baseAtk": "41",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Sacrificial-Sword.png",
+            "rarity": 4,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7ded7",
+            "name": "Deathmatch",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Deathmatch.png",
+            "rarity": 4,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dee1",
+            "name": "Mappa Mare",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Mappa-Mare.png",
+            "rarity": 4,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dee4",
+            "name": "Prototype Amber",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Prototype-Amber.png",
+            "rarity": 4,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df03",
+            "name": "Skyward Spine",
+            "baseAtk": "48",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Skyward-Spine.png",
+            "rarity": 5,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df0e",
+            "name": "Wolf's Gravestone",
+            "baseAtk": "46",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Wolf_s-Gravestone.png",
+            "rarity": 5,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dead",
+            "name": "Harbinger of Dawn",
+            "baseAtk": "39",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Harbinger-of-Dawn.png",
+            "rarity": 3,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dec7",
+            "name": "Messenger",
+            "baseAtk": "40",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Messenger.png",
+            "rarity": 3,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dece",
+            "name": "The Black Sword",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/The-Black-Sword.png",
+            "rarity": 4,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7ded0",
+            "name": "Blackcliff Longsword",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Blackcliff-Longsword.png",
+            "rarity": 4,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7ded6",
+            "name": "Crescent Pike",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Crescent-Pike.png",
+            "rarity": 4,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dedc",
+            "name": "Lithic Spear",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Lithic-Spear.png",
+            "rarity": 4,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7defe",
+            "name": "Primordial Jade Cutter",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Primordial-Jade-Cutter.png",
+            "rarity": 5,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df0f",
+            "name": "Skyward Pride",
+            "baseAtk": "48",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Skyward-Pride.png",
+            "rarity": 5,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deac",
+            "name": "Skyrider Sword",
+            "baseAtk": "38",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Skyrider-Sword.png",
+            "rarity": 3,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dedb",
+            "name": "Dragonspine Spear",
+            "baseAtk": "41",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Dragonspine-Spear.png",
+            "rarity": 4,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dee3",
+            "name": "Royal Grimoire",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Royal-Grimoire.png",
+            "rarity": 4,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deeb",
+            "name": "Sacrificial Greatsword",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Sacrificial-Greatsword.png",
+            "rarity": 4,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7def5",
+            "name": "Amos' Bow",
+            "baseAtk": "46",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Amos_-Bow.png",
+            "rarity": 5,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7def6",
+            "name": "Elegy For The End",
+            "baseAtk": "46",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Elegy-For-The-End.png",
+            "rarity": 5,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deb7",
+            "name": "Debate Club",
+            "baseAtk": "39",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Debate-Club.png",
+            "rarity": 3,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7decc",
+            "name": "Sword of Descension",
+            "baseAtk": "39",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Sword-of-Descension.png",
+            "rarity": 4,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7ded2",
+            "name": "The Alley Flash",
+            "baseAtk": "45",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/The-Alley-Flash.png",
+            "rarity": 4,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dee2",
+            "name": "Solar Pearl",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Solar-Pearl.png",
+            "rarity": 4,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dee5",
+            "name": "Blackcliff Agate",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Blackcliff-Agate.png",
+            "rarity": 4,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dee7",
+            "name": "Wine and Song",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Wine-and-Song.png",
+            "rarity": 4,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7def1",
+            "name": "Blackcliff Slasher",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Blackcliff-Slasher.png",
+            "rarity": 4,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7def2",
+            "name": "Snow-Tombed Starsilver",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Snow-Tombed-Starsilver.png",
+            "rarity": 4,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df08",
+            "name": "Skyward Atlas",
+            "baseAtk": "48",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Skyward-Atlas.png",
+            "rarity": 5,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deaf",
+            "name": "Traveler's Handy Sword",
+            "baseAtk": "40",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Traveler_s-Handy-Sword.png",
+            "rarity": 3,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deb9",
+            "name": "Ferrous Shadow",
+            "baseAtk": "39",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Ferrous-Shadow.png",
+            "rarity": 3,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dec1",
+            "name": "Halberd",
+            "baseAtk": "40",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Halberd.png",
+            "rarity": 3,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dec4",
+            "name": "Sharpshooter's Oath",
+            "baseAtk": "39",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Sharpshooter_s-Oath.png",
+            "rarity": 3,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7ded4",
+            "name": "Favonius Lance",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Favonius-Lance.png",
+            "rarity": 4,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7ded5",
+            "name": "Dragon's Bane",
+            "baseAtk": "41",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Dragon_s-Bane.png",
+            "rarity": 4,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deb3",
+            "name": "Magic Guide",
+            "baseAtk": "38",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Magic-Guide.png",
+            "rarity": 3,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deb6",
+            "name": "Thrilling Tales of Dragon Slayers",
+            "baseAtk": "39",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Thrilling-Tales-of-Dragon-Slayers.png",
+            "rarity": 3,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7ded9",
+            "name": "Blackcliff Pole",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Blackcliff-Pole.png",
+            "rarity": 4,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dedf",
+            "name": "The Widsith",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/The-Widsith.png",
+            "rarity": 4,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dee9",
+            "name": "The Bell",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/The-Bell.png",
+            "rarity": 4,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deee",
+            "name": "Royal Greatsword",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Royal-Greatsword.png",
+            "rarity": 4,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dec2",
+            "name": "White Tassel",
+            "baseAtk": "39",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/White-Tassel.png",
+            "rarity": 3,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dec8",
+            "name": "Lion's Roar",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Lion_s-Roar.png",
+            "rarity": 4,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dee6",
+            "name": "Frostbearer",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Frostbearer.png",
+            "rarity": 4,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7defb",
+            "name": "Skyward Blade",
+            "baseAtk": "46",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Skyward-Blade.png",
+            "rarity": 5,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df05",
+            "name": "Staff of Homa",
+            "baseAtk": "46",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Staff-of-Homa.png",
+            "rarity": 5,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deb2",
+            "name": "Emerald Orb",
+            "baseAtk": "40",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Emerald-Orb.png",
+            "rarity": 3,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df02",
+            "name": "Primordial Jade Winged-Spear",
+            "baseAtk": "48",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Primordial-Jade-Winged-Spear.png",
+            "rarity": 5,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7decf",
+            "name": "Iron Sting",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Iron-Sting.png",
+            "rarity": 4,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dec0",
+            "name": "Black Tassel",
+            "baseAtk": "38",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Black-Tassel.png",
+            "rarity": 3,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deec",
+            "name": "Favonius Greatsword",
+            "baseAtk": "41",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Favonius-Greatsword.png",
+            "rarity": 4,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df07",
+            "name": "Lost Prayer to the Sacred Winds",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Lost-Prayer-to-the-Sacred-Winds.png",
+            "rarity": 5,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df09",
+            "name": "Memory of Dust",
+            "baseAtk": "48",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Memory-of-Dust.png",
+            "rarity": 5,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deda",
+            "name": "Royal Spear",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Royal-Spear.png",
+            "rarity": 4,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deef",
+            "name": "Prototype Archaic",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Prototype-Archaic.png",
+            "rarity": 4,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7def3",
+            "name": "Lithic Blade",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Lithic-Blade.png",
+            "rarity": 4,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deba",
+            "name": "White Iron Greatsword",
+            "baseAtk": "39",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/White-Iron-Greatsword.png",
+            "rarity": 3,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7debd",
+            "name": "Raven Bow",
+            "baseAtk": "40",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Raven-Bow.png",
+            "rarity": 3,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deca",
+            "name": "The Flute",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/The-Flute.png",
+            "rarity": 4,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dee0",
+            "name": "Favonius Codex",
+            "baseAtk": "46",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Favonius-Codex.png",
+            "rarity": 4,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dec5",
+            "name": "Raven Bow",
+            "baseAtk": "40",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Raven-Bow.png",
+            "rarity": 3,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7decb",
+            "name": "Favonius Sword",
+            "baseAtk": "41",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Favonius-Sword.png",
+            "rarity": 4,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7ded8",
+            "name": "Prototype Starglitter",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Prototype-Starglitter.png",
+            "rarity": 4,
+            "weaponType": "Polearm",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dedd",
+            "name": "Eye of Perception",
+            "baseAtk": "41",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Eye-of-Perception.png",
+            "rarity": 4,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dede",
+            "name": "Sacrificial Fragments",
+            "baseAtk": "41",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Sacrificial-Fragments.png",
+            "rarity": 4,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df10",
+            "name": "The Unforged",
+            "baseAtk": "46",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/The-Unforged.png",
+            "rarity": 5,
+            "weaponType": "Claymore",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7debc",
+            "name": "Sharpshooter's Oath",
+            "baseAtk": "39",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Sharpshooter_s-Oath.png",
+            "rarity": 3,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7decd",
+            "name": "Prototype Rancour",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Prototype-Rancour.png",
+            "rarity": 4,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60afbcf47f6ce9526401b8a1",
+            "name": "Alley Hunter",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1623224124/genshin-app/weapons/Alley_Hunter.png",
+            "rarity": 4,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60afbcf47f6ce9526401b8a3",
+            "name": "Compound Bow",
+            "baseAtk": "41",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1622124861/genshin-app/weapons/Compound-Bow.png",
+            "rarity": 4,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60afbcf47f6ce9526401b8a0",
+            "name": "Windblume Ode",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1622124861/genshin-app/weapons/Windblume-Ode.png",
+            "rarity": 4,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60afbcf47f6ce9526401b8a6",
+            "name": "Rust",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1622124861/genshin-app/weapons/Rust.png",
+            "rarity": 4,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60afbcf47f6ce9526401b8a5",
+            "name": "Royal Bow",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1622124861/genshin-app/weapons/Royal-Bow.png",
+            "rarity": 4,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60afbcf47f6ce9526401b8a9",
+            "name": "The Stringless",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1622124861/genshin-app/weapons/The-Stringless.png",
+            "rarity": 4,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60afbcf47f6ce9526401b8a2",
+            "name": "Blackcliff Warbow",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1622124861/genshin-app/weapons/Blackcliff-Warbow.png",
+            "rarity": 4,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60afbcf47f6ce9526401b8a7",
+            "name": "The Viridescent Hunt",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1622124861/genshin-app/weapons/The-Viridescent-Hunt.png",
+            "rarity": 4,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60afbcf47f6ce9526401b8a8",
+            "name": "Favonius Warbow",
+            "baseAtk": "41",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1622124861/genshin-app/weapons/Favonius-Warbow.png",
+            "rarity": 4,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60afbcf47f6ce9526401b8a4",
+            "name": "Prototype Crescent",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1622124861/genshin-app/weapons/Prototype-Crescent.png",
+            "rarity": 4,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60afbcf47f6ce9526401b8aa",
+            "name": "Sacrificial Bow",
+            "baseAtk": "44",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1622124861/genshin-app/weapons/Sacrificial-Bow.png",
+            "rarity": 4,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60c06d0ae2af3011605a5f16",
+            "name": "Mitternachts Waltz",
+            "baseAtk": "42",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1623223998/genshin-app/weapons/Mitternachts_Waltz.png",
+            "rarity": 4,
+            "weaponType": "Bow",
+            "isReleased": true
+        },
+        {
+            "id": "60cc2e72376af229f8d83364",
+            "name": "Dodoco Tales",
+            "baseAtk": "41",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1623992843/genshin-app/weapons/Dodoco_Tales.png",
+            "rarity": 4,
+            "weaponType": "Catalyst",
+            "isReleased": true
+        },
+        {
+            "id": "60e58805ec0d4b1b609cc820",
+            "name": "Freedom Sworn",
+            "baseAtk": "46",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1625654653/genshin-app/weapons/Freedom-Sworn.png",
+            "rarity": 5,
+            "weaponType": "Sword",
+            "isReleased": true
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df13",
+            "name": "Moonlight",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Moonlight.png",
+            "rarity": 5,
+            "weaponType": "Claymore",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7dee8",
+            "name": "Lanternrite Catalyst Weapon",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Lanternrite-Catalyst-Weapon.png",
+            "rarity": 4,
+            "weaponType": "Catalyst",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7def8",
+            "name": "Dreams of Dragonfell",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Dreams-of-Dragonfell.png",
+            "rarity": 5,
+            "weaponType": "Bow",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7defa",
+            "name": "Moonfall",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Moonfall.png",
+            "rarity": 5,
+            "weaponType": "Bow",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df01",
+            "name": "Trancend Weapon",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Trancend-Weapon.png",
+            "rarity": 5,
+            "weaponType": "Sword",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df0c",
+            "name": "Hypostasis Catalyst Weapon",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Hypostasis-Catalyst-Weapon.png",
+            "rarity": 5,
+            "weaponType": "Catalyst",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7deff",
+            "name": "Freedom-Sworn",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Freedom-Sworn.png",
+            "rarity": 5,
+            "weaponType": "Sword",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7def9",
+            "name": "Kirin",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Kirin.png",
+            "rarity": 5,
+            "weaponType": "Bow",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df00",
+            "name": "Pillars (Sword Weapon)",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Pillars-(Sword-Weapon).png",
+            "rarity": 5,
+            "weaponType": "Sword",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7ded3",
+            "name": "HeartSeeker",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/HeartSeeker.png",
+            "rarity": 4,
+            "weaponType": "Sword",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df14",
+            "name": "Appease",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Appease.png",
+            "rarity": 5,
+            "weaponType": "Claymore",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df06",
+            "name": "Regicide (Dirge of Sal)",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Regicide-(Dirge-of-Sal).png",
+            "rarity": 5,
+            "weaponType": "Polearm",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df11",
+            "name": "Primordial Jade Greatsword",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Primordial-Jade-Greatsword.png",
+            "rarity": 5,
+            "weaponType": "Claymore",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7def7",
+            "name": "Primordial Jade Vista",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Primordial-Jade-Vista.png",
+            "rarity": 5,
+            "weaponType": "Bow",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df0d",
+            "name": "Primordial Jade Regalia",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Primordial-Jade-Regalia.png",
+            "rarity": 5,
+            "weaponType": "Catalyst",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df0a",
+            "name": "The Daybreak Chronicles",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/The-Daybreak-Chronicles.png",
+            "rarity": 5,
+            "weaponType": "Catalyst",
+            "isReleased": false
+        },
+        {
+            "id": "60a11b147dc6f433bcb7df0b",
+            "name": "Kaleido",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1620834712/genshin-app/weapons/Kaleido.png",
+            "rarity": 5,
+            "weaponType": "Catalyst",
+            "isReleased": false
+        },
+        {
+            "id": "60afbcf47f6ce9526401b89f",
+            "name": "Fallensun",
+            "baseAtk": "TBA",
+            "iconUrl": "https://res.cloudinary.com/dnoibyqq2/image/upload/v1622124861/genshin-app/weapons/Fallensun.png",
+            "rarity": 4,
+            "weaponType": "Bow",
+            "isReleased": false
+        }
+    ]
+}
+
